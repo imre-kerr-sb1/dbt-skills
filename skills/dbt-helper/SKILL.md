@@ -1,6 +1,6 @@
 ---
 name: dbt-helper
-description: 'Expert dbt assistant for running models, executing tests, compiling SQL, generating documentation, and checking source freshness. Use this skill when working with dbt projects or when asked about dbt workflows, model execution, testing strategies, or data pipeline management.'
+description: 'Expert dbt assistant for running models, tests, SQL compilation, docs, and source freshness. Use when working with dbt projects, workflows, or data pipeline management.'
 ---
 
 # dbt Helper
